@@ -15,19 +15,10 @@ const TEMPLATE_CONFIG = [
       天气：{{weather.DATA}}
       
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
-      
-      
-      
       风级: {{wind_scale.DATA}}
-      
       {{comprehensive_horoscope.DATA}}
       
-      ---
-   
-      
       {{birthday_message.DATA}}
-      
-      ---
       
       {{moment_copyrighting.DATA}}
       
